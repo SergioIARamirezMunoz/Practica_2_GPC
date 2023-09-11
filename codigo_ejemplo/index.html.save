@@ -69,10 +69,6 @@
 			transform: scale(1.1);
 			transition: transform 0.3s;
 		}
-
-		.cheems-img {
-			left: 50px;
-		}
 	</style>
 </head>
 
@@ -99,8 +95,8 @@
 			</button>
 		</form>
 	</div>
-	<div class="cheems-img">
-		<img src="/images/cheems-perrito-famoso-memes-mejor-salud-3-24052023-700x679.png" alt="cheems" width="160" height="160">
+	<div class='cheems-img>
+		
 	</div>
 </body>
 
